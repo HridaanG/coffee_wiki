@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Pipeline data artifacts
+pipeline/data/raw/*.json
+pipeline/data/processed/
+
+# Environment variables
+.env
+.env.local
+
+# Web / Node
+web/node_modules/
+web/dist/
+
+# OS
+.DS_Store
