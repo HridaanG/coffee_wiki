@@ -1,0 +1,315 @@
+{
+  "ratnagiri": {
+    "name": "Ratnagiri Estate",
+    "aliases": [
+      "ratnagiri",
+      "ratnagiri estate",
+      "ratnagiri coffee estate",
+      "pearl mountain",
+      "pearl mountain estate"
+    ],
+    "producer_name": "Ashok Patre",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1300,
+    "altitude_max_masl": 1450,
+    "notes": "Pioneering Bababudangiri estate celebrated for precision anaerobic, yeast-inoculated, and carbonic maceration micro-lots under multi-tier native shade."
+  },
+  "riverdale": {
+    "name": "Riverdale Estate",
+    "aliases": [
+      "riverdale",
+      "riverdale estate",
+      "riverdale coffee estate",
+      "riverdale n72",
+      "riverdale aroma"
+    ],
+    "producer_name": "Prakashan Family",
+    "region": "Shevaroy Hills",
+    "sub_region": "Yercaud",
+    "state": "Tamil Nadu",
+    "altitude_min_masl": 1350,
+    "altitude_max_masl": 1500,
+    "notes": "High-altitude Eastern Ghats estate in Yercaud known for bright washed Arabicas and signature fermented naturals like the N72 lot."
+  },
+  "kerehaklu": {
+    "name": "Kerehaklu Estate",
+    "aliases": [
+      "kerehaklu",
+      "kerehaklu estate",
+      "kerehaklu plantations"
+    ],
+    "producer_name": "Pranoy Thipaiah",
+    "region": "Chikmagalur",
+    "sub_region": "Aldur",
+    "state": "Karnataka",
+    "altitude_min_masl": 1050,
+    "altitude_max_masl": 1250,
+    "notes": "Fifth-generation biodiversity-forward farm intercropping pepper and native timber, producing clean honey, washed, and natural lots."
+  },
+  "baarbara": {
+    "name": "Baarbara Estate",
+    "aliases": [
+      "baarbara",
+      "baarbara estate",
+      "barbara estate",
+      "baarbara berry"
+    ],
+    "producer_name": "M.G.P. Estate Group",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1100,
+    "altitude_max_masl": 1400,
+    "notes": "Renowned Western Ghats estate producing fruit-forward berry naturals and honey-processed SLN 795 and Chandragiri micro-lots."
+  },
+  "attikan": {
+    "name": "Attikan Estate",
+    "aliases": [
+      "attikan",
+      "attikan estate",
+      "attikan coffee estate"
+    ],
+    "producer_name": "Sangameshwar Coffee Estates",
+    "region": "Biligirirangana Hills",
+    "sub_region": "BR Hills",
+    "state": "Karnataka",
+    "altitude_min_masl": 1450,
+    "altitude_max_masl": 1600,
+    "notes": "High-elevation estate bordering the BRT Wildlife Sanctuary, famed for structured, cocoa-and-dried-fruit washed coffees."
+  },
+  "salawara": {
+    "name": "Salawara Estate",
+    "aliases": [
+      "salawara",
+      "salawara estate",
+      "salawara plantations"
+    ],
+    "producer_name": "Salawara Plantations",
+    "region": "Chikmagalur",
+    "sub_region": "Aldur",
+    "state": "Karnataka",
+    "altitude_min_masl": 1100,
+    "altitude_max_masl": 1250,
+    "notes": "Rainforest-shaded Aldur estate producing syrupy honey and natural lots characterized by stone-fruit sweetness and tropical aromatics."
+  },
+  "hoysala": {
+    "name": "Hoysala Estate",
+    "aliases": [
+      "hoysala",
+      "hoysala estate",
+      "hoysala coffee estate"
+    ],
+    "producer_name": "Hoysala Plantations",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1150,
+    "altitude_max_masl": 1350,
+    "notes": "Chikmagalur specialty farm recognized for clean washed, honey, and experimental fermented Arabica harvests."
+  },
+  "harley": {
+    "name": "Harley Estate",
+    "aliases": [
+      "harley",
+      "harley estate",
+      "harley coffee estate"
+    ],
+    "producer_name": "Purnesh Family",
+    "region": "Sakleshpur",
+    "sub_region": "Manjarabad",
+    "state": "Karnataka",
+    "altitude_min_masl": 950,
+    "altitude_max_masl": 1150,
+    "notes": "Historic 19th-century Manjarabad estate producing consistent washed, honey, and experimental Arabica alongside fine Robusta."
+  },
+  "bale-thota": {
+    "name": "Bale Thota Estate",
+    "aliases": [
+      "bale thota",
+      "balethota",
+      "bale thota estate",
+      "balethota estate"
+    ],
+    "producer_name": "Bale Thota Family",
+    "region": "Chikmagalur",
+    "sub_region": "Aldur",
+    "state": "Karnataka",
+    "altitude_min_masl": 1100,
+    "altitude_max_masl": 1250,
+    "notes": "Small-batch Chikmagalur estate cultivating shade-grown Arabica with emphasis on sweet, rounded washed and natural micro-lots."
+  },
+  "thogarihunkal": {
+    "name": "Thogarihunkal Estate",
+    "aliases": [
+      "thogarihunkal",
+      "thogarihunkal estate",
+      "thogari hunkal",
+      "thogari hunkal estate"
+    ],
+    "producer_name": "Sujay Rao",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1200,
+    "altitude_max_masl": 1350,
+    "notes": "Heritage Bababudangiri estate producing balanced, spiced washed and pulped sun-dried Arabica lots."
+  },
+  "krishnagiri": {
+    "name": "Krishnagiri Estate",
+    "aliases": [
+      "krishnagiri",
+      "krishnagiri estate",
+      "krishnagiri coffee estate"
+    ],
+    "producer_name": "Ashok Patre",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1250,
+    "altitude_max_masl": 1400,
+    "notes": "Sister farm to Ratnagiri in the Bababudangiri hills, specializing in expressive natural and anaerobic SLN 795 and Chandragiri lots."
+  },
+  "unakki": {
+    "name": "Unakki Estate",
+    "aliases": [
+      "unakki",
+      "unakki estate",
+      "unakki coffee estate"
+    ],
+    "producer_name": "Unakki Plantations",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1150,
+    "altitude_max_masl": 1350,
+    "notes": "High-slope Chikmagalur farm producing crisp washed and fruit-driven natural specialty lots."
+  },
+  "yelnoorkhan": {
+    "name": "Yelnoorkhan Estate",
+    "aliases": [
+      "yelnoorkhan",
+      "yelnoorkhan estate",
+      "yelnoor khan",
+      "yelnoor khan estate"
+    ],
+    "producer_name": "Yelnoorkhan Group",
+    "region": "Chikmagalur",
+    "sub_region": "Aldur",
+    "state": "Karnataka",
+    "altitude_min_masl": 1100,
+    "altitude_max_masl": 1300,
+    "notes": "Established Chikmagalur estate cultivating SLN 795 and Chandragiri under dense silver oak and native rainforest canopy."
+  },
+  "mooleh-manay": {
+    "name": "Mooleh Manay Estate",
+    "aliases": [
+      "mooleh manay",
+      "moolehmanay",
+      "mooleh manay estate",
+      "moolehmanay estate"
+    ],
+    "producer_name": "Komarlingam Family",
+    "region": "Coorg",
+    "sub_region": "Madikeri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1000,
+    "altitude_max_masl": 1200,
+    "notes": "Biodiverse Kodagu estate prized for syrupy honey, red honey, and classic washed Arabica lots."
+  },
+  "moganad": {
+    "name": "Moganad Estate",
+    "aliases": [
+      "moganad",
+      "moganad estate",
+      "moganad coffee estate"
+    ],
+    "producer_name": "Moganad Plantations",
+    "region": "Shevaroy Hills",
+    "sub_region": "Yercaud",
+    "state": "Tamil Nadu",
+    "altitude_min_masl": 1350,
+    "altitude_max_masl": 1500,
+    "notes": "High-elevation Yercaud estate yielding crisp citrus-and-floral washed coffees and vibrant honey lots."
+  },
+  "orchadale": {
+    "name": "Orchadale Estate",
+    "aliases": [
+      "orchadale",
+      "orchadale estate",
+      "orchardale",
+      "orchardale estate"
+    ],
+    "producer_name": "Orchadale Plantations",
+    "region": "Shevaroy Hills",
+    "sub_region": "Yercaud",
+    "state": "Tamil Nadu",
+    "altitude_min_masl": 1400,
+    "altitude_max_masl": 1550,
+    "notes": "Cool-climate Shevaroy Hills plantation noted for clean acidity, sweet citrus aromatics, and refined washed Arabicas."
+  },
+  "ms-estate": {
+    "name": "M.S. Estate",
+    "aliases": [
+      "ms estate",
+      "m.s. estate",
+      "m s estate",
+      "ms coffee estate"
+    ],
+    "producer_name": "M.S. Estate Family",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1300,
+    "altitude_max_masl": 1500,
+    "notes": "High-elevation Bababudangiri estate producing complex experimental naturals, honey lots, and crisp washed coffees."
+  },
+  "sampigehoney": {
+    "name": "Sampigehoney Estate",
+    "aliases": [
+      "sampigehoney",
+      "sampigehoney estate",
+      "sampige honey",
+      "sampige honey estate"
+    ],
+    "producer_name": "Sampigehoney Plantations",
+    "region": "Chikmagalur",
+    "sub_region": "Bababudangiri",
+    "state": "Karnataka",
+    "altitude_min_masl": 1200,
+    "altitude_max_masl": 1350,
+    "notes": "Chikmagalur farm known for aromatic, honey-sweet washed and natural lots named after native magnolia blossoms."
+  },
+  "elkhill": {
+    "name": "Elkhill Estate",
+    "aliases": [
+      "elkhill",
+      "elkhill estate",
+      "elk hill",
+      "elk hill estate"
+    ],
+    "producer_name": "Elkhill Estates",
+    "region": "Coorg",
+    "sub_region": "Siddapur",
+    "state": "Karnataka",
+    "altitude_min_masl": 950,
+    "altitude_max_masl": 1150,
+    "notes": "Well-known Kodagu estate producing full-bodied washed Arabica and specialty fine Robusta under dense spice-intercropped shade."
+  },
+  "punjisil": {
+    "name": "Punjisil Estate",
+    "aliases": [
+      "punjisil",
+      "punjisil estate",
+      "punjisil farm"
+    ],
+    "producer_name": "Punjisil Smallholder Collective",
+    "region": "Koraput",
+    "sub_region": "Eastern Ghats",
+    "state": "Odisha",
+    "altitude_min_masl": 900,
+    "altitude_max_masl": 1100,
+    "notes": "Emerging Eastern Ghats origin in Koraput producing clean, sweet washed and natural micro-lots with vibrant stone-fruit character."
+  }
+}
